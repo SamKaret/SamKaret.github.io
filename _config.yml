@@ -48,7 +48,7 @@ github_username:  SamKaret
 linkedin_username: sam-karet
 
 # Build settings
-theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   # - jekyll-feed
   - jekyll-include-cache
