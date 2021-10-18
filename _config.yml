@@ -40,9 +40,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   
   I have experience working in both mechanical and electrical workshops, as well as in wet labs. I consider myself a 'maker' and a tinkerer and have skills in prototyping and working with microcontrollers. My experience using C++, python, and MATLAB has contributed to my ability to quickly pick up the usage of other programming languages.
   I am currently looking for work so feel free to reach out and contact me about any roles you think I'm suitable for.
-domain: SamKaret.github.io
-baseurl: "SamKaret.github.io" # the subpath of your site, e.g. /blog
-url: "/SamKaret/" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "" # SamKaret.github.io
+baseurl: "" #"SamKaret.github.io" # the subpath of your site, e.g. /blog
+url: "" # "/SamKaret/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  SamKaret
 linkedin_username: sam-karet
