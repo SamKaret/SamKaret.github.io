@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Sam Karet",
+    "label": "Recent MEng Biomedical Engineering Graduate from Imperial College London",
+    "picture": "",
+    "email": "samkaret@hotmail.co.uk",
+    "phone": "07510897075",
+    "website": "karet.co.uk/sam",
+    "summary": "I recently graduated from Imperial College London with a Master's in Biomedical Engineering.\nI'm a passionate problem solver with wide ranging interests, and experience with medical devices, robotics, and 3D printing.\n\nMy degree involved various modules regarding biomechanics, medical imaging, and programming, as well as a variety of opportunities for project work, both large and small. Here are some examples of projects I worked on during my course:\n● A digital stethoscope.\n● A raspberry pi controlled robotic model tank with a turret to fire foam pellets. (For the Pi Wars Competition)\n● A bicycle pedal with live force feedback for a paraplegic athlete to use on a FES bike in the Cybathlon.\n● An arm wrestling arcade game.\n● Synthetic biological toggle switches.\n● A volumetric infrared imaging system (VIRIS) for the diagnoses and monitoring of breast-cancer related lymphoedema.\n\nI have experience working in both mechanical and electrical workshops, as well as in wet labs. I consider myself a 'maker' and a tinkerer and have skills in prototyping and working with microcontrollers. My experience using C++, python, and MATLAB has contributed to my ability to quickly pick up the usage of other programming languages.\n\nI am currently looking for work so feel free to reach out and contact me about any roles you think I'm suitable for.",
+    "location": {
+      "address": "London, United Kingdom"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sam-karet",
+        "url": "https://www.linkedin.com/in/sam-karet/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cytera CellWorks",
+      "endDate": "2020-11-30",
+      "highlights": [],
+      "position": "Assembly Engineer",
+      "startDate": "2020-08-31",
+      "summary": null,
+      "website": "https://www.linkedin.com/company/10410077"
+    },
+    {
+      "company": "Imperial College Robotics Society",
+      "endDate": "2021-06-30",
+      "highlights": [],
+      "position": "Publicity Officer",
+      "startDate": "2019-07-31",
+      "summary": "I was the publicity officer for the Imperial College Robotics Society and as such I used social media to interact with our members and publicise the events, workshops, projects, and courses that we run as a society. I was also responsible for the acquisition and distribution of ICRS branded merchandise.",
+      "website": "https://www.linkedin.com/company/2554321"
+    },
+    {
+      "company": "Imperial College Robotics Society",
+      "endDate": "2021-06-30",
+      "highlights": [],
+      "position": "Robotics 101 Tutor",
+      "startDate": "2018-01-31",
+      "summary": "I was one of the tutors who helps run Imperial College Robotics Society's open-source introductory Robotics 101 course. The course teaches the students how to breadboard and how to use sensors and microcontrollers to control a basic robot. The current documentation for the course can be found at 101mbed.icrs.io",
+      "website": "https://www.linkedin.com/company/2554321"
+    },
+    {
+      "company": "Imperial College London",
+      "endDate": "2021-06-30",
+      "highlights": [],
+      "position": "Bioengineering Outreach",
+      "startDate": "2018-11-30",
+      "summary": "When I was a current Biomedical Engineering student at Imperial College London I gave tours of the Bioengineering department at Imperial College to prospective students, as well as took part in Q&A sessions with prospective students and their parents after talks given by the senior teaching fellow and industrial liaison of the department.",
+      "website": ""
+    },
+    {
+      "company": "MahiGaming",
+      "endDate": "2019-09-30",
+      "highlights": [],
+      "position": "Marketing Readiness and Logistics Intern",
+      "startDate": "2019-09-30",
+      "summary": "I spent my 2 week internship working on updating and integrating pre-existing risk mitigation documents with the company's task tracking software. I also shadowed the head of Marketing Readiness and Logistics  during meetings and had detailed discussions with people from the various teams, such as the maths, testing, and software development teams.",
+      "website": "https://www.linkedin.com/company/16240825"
+    },
+    {
+      "company": "Imperial College Advanced Hackspace",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "position": "Hackspace Helper",
+      "startDate": "2019-06-30",
+      "summary": "I had a variety of responsibilities depending on what was required of me on the day. This ranged from servicing upmini and prusa 3d printers to organisation and cleanup of the work spaces. Other jobs I did whilst there include preparing prototype electronic circuits for outreach events, helping hackspace members with finding and learning to use the correct tools, and generally just helping the hackspace fellows and members with any issues/problems. ",
+      "website": "https://www.linkedin.com/company/19162344"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bnei Akiva",
+      "position": "Camp Technical Organiser ",
+      "website": "https://www.linkedin.com/company/2097047",
+      "startDate": "2016-07-31",
+      "endDate": "2019-12-31",
+      "summary": "I took on the role of TO (Technical Organiser) on 6 of Bnei Akiva UK's summer and winter camps since December 2017, as well as the lesser role of Technical Leader on 4 of their camps since July 2016.\n",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Imperial College London",
+      "area": "Biomedical/Medical Engineering",
+      "studyType": "Master of Engineering - MEng",
+      "startDate": "2017-12-31",
+      "endDate": "2021-06-30",
+      "gpa": "2:1",
+      "courses": ["Biomechanics", "Medical Imaging", "Individual Project", "Biomimetics", "Hearing and Speech Processing", "Human Neuromechanical Control and Learning", "Programming", "Electromagnetics", "Signals and Control"]
+    },
+    {
+      "institution": "Yavneh College",
+      "area": "3 A grades at A-level in Maths, Further Maths and Physics",
+      "studyType": "10 GCSEs A*-C with 5A* and 3A grades.",
+      "startDate": "2010-12-31",
+      "endDate": "2017-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arduino",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Prototyping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Synthetic Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robotics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mbed",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bioengineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Digital Electronics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LaTeX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "FFF 3D Printing",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],  
+}

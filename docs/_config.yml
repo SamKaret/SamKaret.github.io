@@ -1,0 +1,78 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+lang: en-GB
+title: ""
+email: samkaret@hotmail.co.uk
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi, I'm Sam Karet. I recently graduated from Imperial College London with a Master's in Biomedical Engineering.
+  I'm a passionate problem solver with wide ranging interests, and experience with medical devices, robotics, and 3D printing.
+  My degree involved various modules regarding biomechanics, medical imaging, and programming, as well as a variety of opportunities for project work, both large and small. Here are some examples of projects I worked on during my course:
+  
+  ● A digital stethoscope.
+  
+  ● A raspberry pi controlled robotic model tank with a turret to fire foam pellets. (For the Pi Wars Competition)
+  
+  ● A bicycle pedal with live force feedback for a paraplegic athlete to use on a FES bike in the Cybathlon.
+  
+  ● An arm wrestling arcade game.
+  
+  ● Synthetic biological toggle switches.
+  
+  ● A volumetric infrared imaging system (VIRIS) for the diagnoses and monitoring of breast-cancer related lymphoedema.
+  
+  I have experience working in both mechanical and electrical workshops, as well as in wet labs. I consider myself a 'maker' and a tinkerer and have skills in prototyping and working with microcontrollers. My experience using C++, python, and MATLAB has contributed to my ability to quickly pick up the usage of other programming languages.
+  I am currently looking for work so feel free to reach out and contact me about any roles you think I'm suitable for.
+domain: SamKaret.github.io
+baseurl: "SamKaret.github.io" # the subpath of your site, e.g. /blog
+url: "/SamKaret/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  SamKaret
+linkedin_username: sam-karet
+
+# Build settings
+theme: jekyll-theme-basically-basic
+plugins:
+  # - jekyll-feed
+  - jekyll-include-cache
+
+markdown: kramdown
+
+copyright: "© Sam Karet 2021"
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
