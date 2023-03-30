@@ -19,6 +19,15 @@
     ]
   },
   "work": [
+    {"company": "The Griffin Institute",
+    "endDate": "2020-11-30",
+    "highlights": [],
+    "position": "Assembly Engineer",
+    "startDate": "2020-08-31",
+    "summary": null,
+    "website": "https://griffininstitute.org.uk/"
+
+    },
     {
       "company": "Cytera CellWorks",
       "endDate": "2020-11-30",
