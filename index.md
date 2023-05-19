@@ -29,4 +29,6 @@ linkedin_username: sam-karet
     &nbsp;&nbsp;&nbsp;&nbsp; Imperial College London
   </h1>
 </div>
-
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
