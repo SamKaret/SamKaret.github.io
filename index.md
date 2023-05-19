@@ -20,7 +20,7 @@ linkedin_username: sam-karet
   <img src="IceRink.png" width="40%" alt="Sam Karet" style="float: left; margin: 0 0 0 1rem">
   <h1 style="float: center">
     <br><br><br><br><br>
-    &nbsp;&nbsp;&nbsp;&nbsp; Sam Karets
+    &nbsp;&nbsp;&nbsp;&nbsp; Sam Karet
     <br><br>
     &nbsp;&nbsp;&nbsp;&nbsp; Biomedical Engineering
     <br>
