@@ -20,47 +20,47 @@
   },
   "work": [
     {"company": "The Griffin Institute",
-    "endDate": "2023-05-31",
+    "endDate": "May 2023",
     "highlights": [],
     "position": "Research Assistant",
-    "startDate": "2021-12-06",
+    "startDate": "December 2021",
     "summary": "Responsible for the day to day running of the Clinical Pathology Laboratory. Wrote and reviewed SOPs in compliance with GLP. Liaised with clients, wrote study plans and reports, and ensured smooth completion of studies as a study director. Acquired, organised, and maintained equipment and supplies necessary for studies. Developed and performed Computer Systems Validation procedures for equipment to be used within GLP studies.",
     "website": "https://griffininstitute.org.uk/"
 
     },
     {
       "company": "Cytera CellWorks",
-      "endDate": "2020-11-30",
+      "endDate": "November 2020",
       "highlights": [],
       "position": "Assembly Engineer",
-      "startDate": "2020-08-31",
+      "startDate": "August 2020",
       "summary": "Assembled consumable products for clients, and prepared components for non-consumable devices. Designed and assembled specialised consumables for internal use. Amended existing documentation and produced new documentation for consumable products.",
       "website": "https://www.linkedin.com/company/10410077"
     },
     {
       "company": "Imperial College London",
-      "endDate": "2021-06-30",
+      "endDate": "June 2021",
       "highlights": [],
       "position": "Bioengineering Outreach",
-      "startDate": "2018-11-30",
+      "startDate": "November 2018",
       "summary": "When I was a current Biomedical Engineering student at Imperial College London I gave tours of the Bioengineering department at Imperial College to prospective students, as well as took part in Q&A sessions with prospective students and their parents after talks given by the senior teaching fellow and industrial liaison of the department.",
       "website": ""
     },
     {
       "company": "MahiGaming",
-      "endDate": "2019-09-30",
+      "endDate": "September 2019",
       "highlights": [],
       "position": "Marketing Readiness and Logistics Intern",
-      "startDate": "2019-09-30",
+      // "startDate": "2019-09-30",
       "summary": "I spent my 2 week internship working on updating and integrating pre-existing risk mitigation documents with the company's task tracking software. I also shadowed the head of Marketing Readiness and Logistics  during meetings and had detailed discussions with people from the various teams, such as the maths, testing, and software development teams.",
       "website": "https://www.linkedin.com/company/16240825"
     },
     {
       "company": "Imperial College Advanced Hackspace",
-      "endDate": "2019-08-31",
+      "endDate": "August 2019",
       "highlights": [],
       "position": "Hackspace Helper",
-      "startDate": "2019-06-30",
+      "startDate": "June 2019",
       "summary": "I had a variety of responsibilities depending on what was required of me on the day. This ranged from servicing upmini and prusa 3d printers to organisation and cleanup of the work spaces. Other jobs I did whilst there include preparing prototype electronic circuits for outreach events, helping hackspace members with finding and learning to use the correct tools, and generally just helping the hackspace fellows and members with any issues/problems. ",
       "website": "https://www.linkedin.com/company/19162344"
     }
@@ -70,8 +70,8 @@
       "organization": "Bnei Akiva",
       "position": "Camp Technical Organiser ",
       "website": "https://www.linkedin.com/company/2097047",
-      "startDate": "2016-07-31",
-      "endDate": "2019-12-31",
+      "startDate": "July 2016",
+      "endDate": "December 2019",
       "summary": "I took on the role of TO (Technical Organiser) on 6 of Bnei Akiva UK's summer and winter camps since December 2017, as well as the lesser role of Technical Leader on 4 of their camps since July 2016.\n",
       "highlights": []
     }
@@ -81,8 +81,8 @@
       "institution": "Imperial College London",
       "area": "Biomedical/Medical Engineering",
       "studyType": "Master of Engineering - MEng",
-      "startDate": "2017-12-31",
-      "endDate": "2021-06-30",
+      "startDate": "2017",
+      "endDate": "2021",
       "gpa": "2:1",
       "courses": ["Biomechanics", "Medical Imaging", "Individual Project", "Biomimetics", "Hearing and Speech Processing", "Human Neuromechanical Control and Learning", "Programming", "Electromagnetics", "Signals and Control"]
     },
@@ -90,8 +90,8 @@
       "institution": "Yavneh College",
       "area": "3 A grades at A-level in Maths, Further Maths and Physics",
       "studyType": "10 GCSEs A*-C with 5A* and 3A grades.",
-      "startDate": "2010-12-31",
-      "endDate": "2017-12-31"
+      "startDate": "2010",
+      "endDate": "2017"
     }
   ],
   "skills": [
@@ -100,7 +100,11 @@
       "level": "",
       "keywords": []
     },
-
+    {
+      "name": "Fusion360",
+      "level": "",
+      "keywords": []
+    },
     {
       "name": "Arduino",
       "level": "",
